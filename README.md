@@ -1,7 +1,5 @@
 # SkillSwap - A Peer-to-Peer Skill Exchange Platform
 
-**Project URL**: https://skillswap.example.com
-
 ## About
 
 SkillSwap is a platform that connects people who want to learn new skills with those who can teach them. It's a peer-to-peer learning community where users can both teach and learn from each other.
